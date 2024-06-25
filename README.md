@@ -1,1 +1,1 @@
-# Social-Network-Analysis-PLatform
+# Social-Network-Analysis-Platform
